@@ -3,7 +3,8 @@
 Plugin Name: Viva Customizer Cards
 Description: A plugin to manage front page cards in the WordPress customizer and display them using a shortcode.
 Version: 1.0
-Author: Viva
+Author: Kasingye Viva
+Author Url: x.com/vivakasingye1
 */
 
 // Add the customizer section for Front Page Cards
